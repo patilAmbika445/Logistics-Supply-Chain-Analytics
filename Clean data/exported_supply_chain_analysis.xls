@@ -1,0 +1,200 @@
+Category Name,Delivery Status,Total_Orders,Total_Sales,Late_Delivery_Risk_Count
+Accessories,Advance shipping,1256,27890.49987253,0
+Accessories,Late delivery,3064,68902.38972331,1014
+Accessories,Shipping canceled,224,5005.58997513,0
+Accessories,Shipping on time,805,17914.069914390002,0
+As Seen on  TV!,Advance shipping,37,3321.6599807000002,0
+As Seen on  TV!,Late delivery,128,11541.32994828,39
+As Seen on  TV!,Shipping canceled,7,601.9399872,0
+As Seen on  TV!,Shipping on time,34,3054.6800155,0
+Baby ,Advance shipping,49,2610.770031,0
+Baby ,Late delivery,109,5785.1900826,109
+Baby ,Shipping canceled,9,466.73000336,0
+Baby ,Shipping on time,40,2094.7100258,0
+Baseball & Softball,Advance shipping,412,19920.72024896,0
+Baseball & Softball,Late delivery,962,45199.49045001,349
+Baseball & Softball,Shipping canceled,71,3198.9800033700003,0
+Baseball & Softball,Shipping on time,340,16048.080150150001,0
+Basketball,Advance shipping,22,7255.7798762,0
+Basketball,Late delivery,37,14577.1297904,37
+Basketball,Shipping canceled,3,835.4699706000001,0
+Basketball,Shipping on time,5,2036.9499816,0
+Books ,Advance shipping,87,2413.58000761,0
+Books ,Late delivery,229,6410.10001957,229
+Books ,Shipping canceled,14,399.38000108,0
+Books ,Shipping on time,75,2080.36000448,0
+Boxing & MMA,Advance shipping,264,16179.52996502,0
+Boxing & MMA,Late delivery,723,43496.04995365,238
+Boxing & MMA,Shipping canceled,55,3261.8199997,0
+Boxing & MMA,Shipping on time,223,13349.32002269,0
+CDs ,Advance shipping,67,680.5300007129999,0
+CDs ,Late delivery,141,1433.629999208,141
+CDs ,Shipping canceled,8,83.439999583,0
+CDs ,Shipping on time,55,552.429998431,0
+Cameras ,Advance shipping,126,51177.7198489,0
+Cameras ,Late delivery,344,139682.6994023,344
+Cameras ,Shipping canceled,30,12365.5599365,0
+Cameras ,Shipping on time,92,37270.699829,0
+Camping & Hiking,Advance shipping,3147,847246.9200186,0
+Camping & Hiking,Late delivery,7487,2018202.0183245998,7487
+Camping & Hiking,Shipping canceled,572,154355.3538069,0
+Camping & Hiking,Shipping on time,2523,680979.3363084,0
+Cardio Equipment,Advance shipping,8834,781814.56482355,0
+Cardio Equipment,Late delivery,20424,1802598.49842734,6805
+Cardio Equipment,Shipping canceled,1650,145341.5393426,0
+Cardio Equipment,Shipping on time,6679,590496.09604548,0
+Children's Clothing,Advance shipping,157,50263.7901612,0
+Children's Clothing,Late delivery,348,111499.4302681,348
+Children's Clothing,Shipping canceled,30,9913.1200866,0
+Children's Clothing,Shipping on time,117,37592.040039499996,0
+Cleats,Advance shipping,16784,907913.02222407,0
+Cleats,Late delivery,40385,2181928.52898479,13496
+Cleats,Shipping canceled,3123,167203.09200982001,0
+Cleats,Shipping on time,13442,725811.85939832,0
+Computers,Advance shipping,117,157710.0,0
+Computers,Late delivery,224,301597.5,224
+Computers,Shipping canceled,17,22867.5,0
+Computers,Shipping on time,84,113220.0,0
+Consumer Electronics,Advance shipping,101,23142.2499391,0
+Consumer Electronics,Late delivery,238,54040.2699438,238
+Consumer Electronics,Shipping canceled,22,4909.6499634,0
+Consumer Electronics,Shipping on time,70,15845.389969,0
+Crafts,Advance shipping,104,43039.990113,0
+Crafts,Late delivery,271,112398.2002272,271
+Crafts,Shipping canceled,26,10849.4200134,0
+Crafts,Shipping on time,83,34417.2599797,0
+DVDs,Advance shipping,115,17040.4399322,0
+DVDs,Late delivery,259,38168.1097992,259
+DVDs,Shipping canceled,24,3535.7699737000003,0
+DVDs,Shipping on time,85,12575.059981299999,0
+Electronics,Advance shipping,2213,79233.07016858,0
+Electronics,Late delivery,5274,185521.42055472,1770
+Electronics,Shipping canceled,375,12780.169994240001,0
+Electronics,Shipping on time,1574,55792.60007966,0
+Fishing,Advance shipping,4034,1452173.4899436,0
+Fishing,Late delivery,9516,3419519.2333192,9516
+Fishing,Shipping canceled,730,262169.8471148,0
+Fishing,Shipping on time,3045,1093072.7201878,0
+Fitness Accessories,Advance shipping,205,6953.95003092,0
+Fitness Accessories,Late delivery,484,18073.93003708,176
+Fitness Accessories,Shipping canceled,32,1012.60001564,0
+Fitness Accessories,Shipping on time,135,5710.87996245,0
+Garden,Advance shipping,116,55875.6101978,0
+Garden,Late delivery,270,128689.950101,270
+Garden,Shipping canceled,18,8659.7499997,0
+Garden,Shipping on time,80,38540.1499931,0
+Girls' Apparel,Advance shipping,876,34496.86011472,0
+Girls' Apparel,Late delivery,1957,71342.3300465,664
+Girls' Apparel,Shipping canceled,201,7747.22002206,0
+Girls' Apparel,Shipping on time,581,22620.42003448,0
+Golf Apparel,Advance shipping,236,8245.70992082,0
+Golf Apparel,Late delivery,555,16054.59985694,229
+Golf Apparel,Shipping canceled,27,983.53999708,0
+Golf Apparel,Shipping on time,207,6163.58993536,0
+Golf Bags & Carts,Advance shipping,12,1882.6300047999998,0
+Golf Bags & Carts,Late delivery,42,6470.6299971,42
+Golf Bags & Carts,Shipping on time,7,1050.5299986999999,0
+Golf Balls,Advance shipping,1070,16883.77988993,0
+Golf Balls,Late delivery,2389,37845.47972369,805
+Golf Balls,Shipping canceled,225,3516.47997566,0
+Golf Balls,Shipping on time,700,11095.50995338,0
+Golf Gloves,Advance shipping,679,22069.92011754,0
+Golf Gloves,Late delivery,1648,60078.030149757,602
+Golf Gloves,Shipping canceled,132,4382.85999463,0
+Golf Gloves,Shipping on time,502,18256.590058594,0
+Golf Shoes,Advance shipping,326,22551.54996462,0
+Golf Shoes,Late delivery,804,53339.63000107,291
+Golf Shoes,Shipping canceled,60,3866.19000621,0
+Golf Shoes,Shipping on time,254,16749.1000179,0
+Health and Beauty,Advance shipping,83,21790.4201346,0
+Health and Beauty,Late delivery,202,53347.910109000004,202
+Health and Beauty,Shipping canceled,16,4108.4299928,0
+Health and Beauty,Shipping on time,61,16111.3500515,0
+Hockey,Advance shipping,446,11885.83003019,0
+Hockey,Late delivery,906,23009.74999193,329
+Hockey,Shipping canceled,70,2067.06998817,0
+Hockey,Shipping on time,289,6655.71003728,0
+Hunting & Shooting,Advance shipping,290,13087.48996205,0
+Hunting & Shooting,Late delivery,702,27944.01005734,247
+Hunting & Shooting,Shipping canceled,44,1986.1800059299999,0
+Hunting & Shooting,Shipping on time,203,7861.23005458,0
+Indoor/Outdoor Games,Advance shipping,13312,598490.94472912,0
+Indoor/Outdoor Games,Late delivery,31682,1422487.54691086,10565
+Indoor/Outdoor Games,Shipping canceled,2470,110878.43899492,0
+Indoor/Outdoor Games,Shipping on time,10339,464597.08550248,0
+Kids' Golf Clubs,Advance shipping,148,19263.47994973,0
+Kids' Golf Clubs,Late delivery,350,48728.15959909,205
+Kids' Golf Clubs,Shipping canceled,39,6897.39996319,0
+Kids' Golf Clubs,Shipping on time,108,14584.65995037,0
+Lacrosse,Advance shipping,226,7789.34994678,0
+Lacrosse,Late delivery,613,21755.83990178,206
+Lacrosse,Shipping canceled,43,1228.25999069,0
+Lacrosse,Shipping on time,139,4642.47995169,0
+Men's Clothing,Advance shipping,51,9624.2699894,0
+Men's Clothing,Late delivery,113,21402.3200384,113
+Men's Clothing,Shipping canceled,10,1909.2499847,0
+Men's Clothing,Shipping on time,34,6429.86998,0
+Men's Footwear,Advance shipping,5104,595928.75545674,0
+Men's Footwear,Late delivery,12121,1415515.07943866,12121
+Men's Footwear,Shipping canceled,983,114641.71913698,0
+Men's Footwear,Shipping on time,4038,472408.86667263997,0
+Men's Golf Clubs,Advance shipping,115,11883.0099788,0
+Men's Golf Clubs,Late delivery,201,20100.28990103,135
+Men's Golf Clubs,Shipping canceled,9,996.45999914,0
+Men's Golf Clubs,Shipping on time,95,9403.02992232,0
+Music,Advance shipping,97,22612.699996,0
+Music,Late delivery,248,58342.5099,248
+Music,Shipping canceled,17,3922.770004,0
+Music,Shipping on time,72,16809.3099662,0
+Pet Supplies,Advance shipping,91,6920.8299675,0
+Pet Supplies,Late delivery,290,22005.61991877,290
+Pet Supplies,Shipping canceled,20,1483.31998822,0
+Pet Supplies,Shipping on time,91,6908.52997204,0
+Shop By Sport,Advance shipping,7567,272075.53160834,0
+Shop By Sport,Late delivery,18034,648153.86398621,6058
+Shop By Sport,Shipping canceled,1397,50399.470275,0
+Shop By Sport,Shipping on time,5728,206556.7613105,0
+Soccer,Advance shipping,63,4929.05993345,0
+Soccer,Late delivery,165,13393.2898195,75
+Soccer,Shipping canceled,2,187.93000034,0
+Soccer,Shipping on time,65,5399.66998326,0
+Sporting Goods,Advance shipping,83,24420.700409099998,0
+Sporting Goods,Late delivery,198,58378.8208613,198
+Sporting Goods,Shipping canceled,21,5932.2800904999995,0
+Sporting Goods,Shipping on time,55,16331.8101503,0
+Strength Training,Advance shipping,22,11630.1098772,0
+Strength Training,Late delivery,64,24395.7397284,64
+Strength Training,Shipping canceled,2,357.2100067,0
+Strength Training,Shipping on time,23,12430.7799212,0
+Tennis & Racquet,Advance shipping,186,7515.80005609,0
+Tennis & Racquet,Late delivery,561,22649.88018666,183
+Tennis & Racquet,Shipping canceled,37,1491.8500137400001,0
+Tennis & Racquet,Shipping on time,207,8420.28008997,0
+Toys,Advance shipping,123,1278.159994113,0
+Toys,Late delivery,291,3010.929980219,291
+Toys,Shipping canceled,22,230.02999783799999,0
+Toys,Shipping on time,93,966.559995629,0
+Trade-In,Advance shipping,658,13957.01010243,0
+Trade-In,Late delivery,1583,35425.77027162,542
+Trade-In,Shipping canceled,140,2775.89001852,0
+Trade-In,Shipping on time,441,9508.87007045,0
+Video Games,Advance shipping,190,6776.77995867,0
+Video Games,Late delivery,455,16216.12993033,455
+Video Games,Shipping canceled,34,1223.15999411,0
+Video Games,Shipping on time,159,5703.12998572,0
+Water Sports,Advance shipping,3547,638749.0493249,0
+Water Sports,Late delivery,8517,1534858.626461,8517
+Water Sports,Shipping canceled,660,118787.40363,0
+Water Sports,Shipping on time,2816,505649.1054421,0
+Women's Apparel,Advance shipping,14640,657098.0,0
+Women's Apparel,Late delivery,34389,1545062.0,11476
+Women's Apparel,Shipping canceled,2724,121940.0,0
+Women's Apparel,Shipping on time,11203,504608.5,0
+Women's Clothing,Advance shipping,145,28048.0500179,0
+Women's Clothing,Late delivery,367,71143.1902301,367
+Women's Clothing,Shipping canceled,19,3712.1000213,0
+Women's Clothing,Shipping on time,119,23103.5900571,0
+Women's Golf Clubs,Advance shipping,104,10595.07994089,0
+Women's Golf Clubs,Late delivery,205,20832.219901919998,97
+Women's Golf Clubs,Shipping canceled,24,2267.66998282,0
+Women's Golf Clubs,Shipping on time,70,6289.41997534,0
